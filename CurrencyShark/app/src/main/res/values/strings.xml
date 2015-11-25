@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CurrencyShark</string>
+    <string name="action_settings">Settings</string>
+    <string name="invalid_entry_message">Please Enter Numbers</string>
+</resources>
